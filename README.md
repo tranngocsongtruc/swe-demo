@@ -2,7 +2,7 @@
 
 Just experimenting with Git & GitHub
 
-##This is a subheading
+#This is a subheading
 
 ##This is a list
 * Item 1
